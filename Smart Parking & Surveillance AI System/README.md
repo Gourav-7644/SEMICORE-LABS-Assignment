@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 2. Project Structure:
 ```
-smart_parking_detection/
+Smart_parking_detection/
 ├── parking1.mp4          # Input video
 ├── coco.txt              # Class labels (COCO dataset)
 ├── yolov8s.pt            # YOLOv8 model weights
