@@ -110,11 +110,6 @@ Tracking System:
 
 ---
 
-## License
-
-MIT License – free for academic and research use.
-
----
 
 ## Future Enhancements
 
