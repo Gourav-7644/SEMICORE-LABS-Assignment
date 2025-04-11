@@ -23,7 +23,7 @@ This project implements a real-time smart parking space detection system using Y
 | **Precision**       | 92.42%                     |
 | **Recall**          | 100.00%                    |
 | **Processing Speed**| 0.61 FPS                   |
-
+---
 ## Setup and Installation
 
 1. Install the required packages:
