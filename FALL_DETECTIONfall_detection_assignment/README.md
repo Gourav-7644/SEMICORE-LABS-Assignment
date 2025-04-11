@@ -13,7 +13,22 @@ This project implements a real-time people tracking system using YOLOv8 with sup
 - Output video with tracked individuals
 
 ---
+## 📊 Performance Metrics
 
+### 🧍 People Tracking
+
+| **Metric**              | **Value**                            |
+|-------------------------|--------------------------------------|
+| **Model**               | YOLOv8 Nano (`yolov8n.pt`)           |
+| **Detection Threshold** | 0.5                                  |
+| **Tracking Method**     | Custom object ID tracking logic      |
+| **ID Assignment**       | ✅ Unique ID per person               |
+| **Visualization**       | Bounding boxes + ID overlays         |
+| **Output Video**        | `out.mp4` (auto-generated)           |
+| **Processing Speed**    | ~15–25 FPS (system-dependent)        |
+| **Output Format**       | MP4 with real-time annotations       |
+
+---
 ## Setup and Installation
 
 1. Install the required packages:
