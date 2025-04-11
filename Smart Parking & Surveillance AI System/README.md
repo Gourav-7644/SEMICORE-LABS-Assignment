@@ -13,7 +13,13 @@ This project implements a real-time smart parking space detection system using Y
 🟩 Green: Available
 -Displays real-time count of available parking slots
 ---
-
+## Performance Metrics
+-Parking Detection
+-Accuracy: 97.47% (exceeds required 90%)
+-Precision: 92.42%
+-Recall: 100.00%
+-Processing Speed: 0.61 FPS
+---
 ## Setup and Installation
 
 1. Install the required packages:
